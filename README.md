@@ -25,7 +25,8 @@ This project implements real-time object detection for dashcam footage using YOL
 ---
 ## 🏅 Publication Certificate
 
-![Publication Certificate](https://drive.google.com/uc?export=view&id=18s9M4jGLMF3R4yCchVtRvWMiZ6NZdnUa)
+![Publication Certificate](https://raw.githubusercontent.com/your-username/repo-name/main/certificate.png)
+
 
 ## 📂 Project Structure
 
