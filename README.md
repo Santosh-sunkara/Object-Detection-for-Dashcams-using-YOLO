@@ -46,9 +46,7 @@ This project implements real-time object detection for dashcam footage using YOL
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/Santosh-sunkara/Object-Detection-for-Dashcams-using-YOLO.git
-cd Object-Detection-for-Dashcams-using-YOLO
+git clone https://github.com/Santosh-sunkara/Object-Detection-for-Dashcams-using-YOLO/blob/main/Source_Code
 pip install -r requirements.txt
-mkdir models
-wget -O models/yolov8.pt https://github.com/ultralytics/yolov8/releases/download/v8.0.0/yolov8n.pt
+
 
