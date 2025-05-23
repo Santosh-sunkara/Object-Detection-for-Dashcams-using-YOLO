@@ -29,6 +29,19 @@ This project implements real-time object detection for dashcam footage using YOL
 
 
 ## 📂 Project Structure
+Object-Detection-for-Dashcams-using-YOLO/
+│
+├── models/                  # Pretrained YOLOv8 model weights (.pt files)
+├── dataset/                 # BDD100K dataset (images and labels)
+├── scripts/                 # Helper Python scripts for data preprocessing, visualization, etc.
+│
+├── detect.py                # Script to perform object detection on images/videos
+├── train.py                 # Script to train YOLO model on BDD100K or custom dataset
+├── Welcome_To_Colab.ipynb   # Jupyter Notebook for running project on Google Colab
+│
+├── requirements.txt         # Python dependencies list
+├── README.md                # Project documentation file
+└── utils.py                 # (Optional) Utility functions used in training or detection
 
 
 ---
